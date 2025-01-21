@@ -84,7 +84,7 @@ const Dashboard = () => {
                 type="text"
                 value={query}
                 onChange={handleInputChange}
-                placeholder="Search by name or email"
+                placeholder="Search by category"
             />
             <button onClick={onSearch}>Search</button>
             
