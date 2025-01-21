@@ -15,9 +15,7 @@ mongodb queries:-> findByIdAndUpdate , findById , findOne.
 
 Api usage:->
 ![image](https://github.com/user-attachments/assets/06105e1b-3374-4ded-bb07-ae6577a4897d)
-if the api already registered and we are trying to register the user and it will give the error.
-
-first I deploy the backend and the deployed link of backend are used in frontend and then the frontend part is deployed.
+if the user are already registered and we are trying to register that user it will give the error.
 
 Functionality:->
 login/logout
