@@ -12,4 +12,4 @@ export const handleError = (msg) => {
     })
 }
 
-export const APIUrl = "https://expense-tracker-backend-owsm.onrender.com/";
+export const APIUrl = "https://expense-tracker-backend-owsm.onrender.com";
