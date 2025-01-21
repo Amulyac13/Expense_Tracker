@@ -18,11 +18,11 @@ Api usage:->
 if the user are already registered and we are trying to register that user it will give the error.
 
 Functionality:->
-login/logout
-add expense 
-delete expense 
-notication when you get successfully registered/ login and add/delete the expense
-dashboard:-> on that we get the expense detail on the search filter.
+1. login/logout
+2. add expense 
+3. delete expense 
+4. notication when you get successfully registered/ login and add/delete the expense
+5. dashboard:-> on that we get the expense detail on the basis of search filter.
 
 frontend part run:->npm start
 backend part run:->npm run dev.
